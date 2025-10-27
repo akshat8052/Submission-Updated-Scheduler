@@ -1,0 +1,30 @@
+# Azure Functions
+azure-functions
+
+# Azure SDK
+azure-storage-blob
+azure-ai-documentintelligence
+azure-core
+
+# Authentication
+msal
+python-dotenv
+
+# Data processing
+pandas
+openpyxl
+numpy
+
+# Web
+requests
+beautifulsoup4
+
+# AI/ML
+openai
+tiktoken
+sentence-transformers
+faiss-cpu
+
+# Others
+extract-msg
+PyMuPDF
